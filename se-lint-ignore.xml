@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-2-3.xhtml">
+		<ignore>
+			<code>y-031</code>
+			<reason>Match is not a dialog tag.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
