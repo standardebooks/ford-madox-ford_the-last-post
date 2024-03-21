@@ -45,7 +45,6 @@ section[epub|type~="epigraph"] > *{
 }
 /* End full-page epigraphs */
 
-
 /* poem/verse/song */
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
@@ -69,4 +68,13 @@ section[epub|type~="epigraph"] > *{
 p span.i1{
 	padding-left: 2em;
 	text-indent: -1em;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+#dedication p:nth-of-type(2){
+	text-indent: 0;
 }
