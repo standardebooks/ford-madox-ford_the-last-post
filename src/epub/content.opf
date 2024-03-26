@@ -53,7 +53,6 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20141089</dc:source>
 		<dc:source>https://books.google.com/books?id=-yBLAAAAMAAJ</dc:source>
-		<meta property="se:production-notes">`tom-tit` is not modernized because it appears next to `bottle-tit` and `great-tit`. For consistency it isn't modernized further in the work.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Last_Post</meta>
