@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/ford-madox-ford/the-last-post</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-03-27T19:29:18Z</dc:date>
+		<meta property="dcterms:modified">2024-03-27T19:29:18Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -46,15 +46,19 @@
 		<meta id="collection-3" property="belongs-to-collection">The BBC’s 100 Greatest British Novels (2015)</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
 		<meta property="group-position" refines="#collection-3">57</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">An invalid and his family reflect on recent events in the years after the close of the Great War.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Some time has passed since the end of the Great War and the Armistice Day celebration in &lt;a href="https://standardebooks.org/ebooks/ford-madox-ford/a-man-could-stand-up"&gt;&lt;i&gt;A Man Could Stand Up—&lt;/i&gt;&lt;/a&gt;, and Christopher Tietjens and his partner Valentine Wannop are living together with his brother Mark and Mark’s French wife Marie Léonie in a small cottage in the English countryside.&lt;/p&gt;
+			&lt;p&gt;Mark has suffered an illness and is now an invalid, tenderly cared for by Marie Léonie. Christopher has turned to dealing antique English furniture to American buyers, and is away on business for much of the novel. The Tietjens’ ancestral home, Groby, is now inhabited by an American renter, and Sylvia, Christopher’s melodramatic and treacherous wife, lurks in the background, her bag of vengeful tricks not yet depleted.&lt;/p&gt;
+			&lt;p&gt;The events of the novel take place in a window of just a few hours, but the stream-of-consciousness style invites the reader deep into the thoughts of each of the major characters in the &lt;a href="https://standardebooks.org/collections/parades-end"&gt;Parade’s End&lt;/a&gt; saga—with the notable exception of Christopher. Mark, paralyzed and mute but aware of his surroundings, is the major narrator, but the narrative dips in and out of the thoughts of Marie Léonie, Valentine, Sylvia, and others.&lt;/p&gt;
+			&lt;p&gt;Like the rest of the Parade’s End saga, &lt;i&gt;The Last Post&lt;/i&gt; is a complex, dense thematic exploration of the Great War and its generational consequences. Christopher, the “last Tory” and embodiment of the traditional English gentleman, finds himself surviving by literally selling off his country’s physical heritage to the newly-ascendant American empire. Mark, an immensely wealthy English landowner, suddenly finds himself not just impotent physically, but, misled by cruel rumors, feuding emotionally with his brother, with each of them unable to forgive the other. Meanwhile Sylvia, the avatar of the decadence, pettiness, and stupidity of the old guard, devotes her energies to striking a mortal blow against her own kind by tricking the American renter into cutting down Great Groby Tree, the very symbol of the stalwart and ancient Tietjens—and English—spirit.&lt;/p&gt;
+			&lt;p&gt;Graham Greene, when editing the Parade’s End saga for the Bodley Head in 1962, famously omitted &lt;i&gt;The Last Post&lt;/i&gt;, publishing the saga as a trilogy and not a tetralogy. He considered this concluding volume to be unnecessarily sentimental, tying up loose ends that were better left ambiguously unresolved at the end of &lt;i&gt;A Man Could Stand Up—&lt;/i&gt;. But critical opinion has since shifted, and &lt;i&gt;The Last Post&lt;/i&gt; now stands proudly as a multifaceted and unashamedly modernist capstone to what some consider to be one of the greatest series in 20th century English letters.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20141089</dc:source>
 		<dc:source>https://books.google.com/books?id=-yBLAAAAMAAJ</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">70508</meta>
+		<meta property="se:reading-ease.flesch">72.56</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Last_Post</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ford-madox-ford_the-last-post</meta>
 		<dc:creator id="author">Ford Madox Ford</dc:creator>
